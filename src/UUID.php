@@ -4,7 +4,7 @@ namespace Programm011\UUID;
 
 use Illuminate\Support\Str;
 
-trait HasUuids
+trait UUID
 {
     /**
      * Boot function from Laravel.
