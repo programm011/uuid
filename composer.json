@@ -1,0 +1,19 @@
+{
+    "name": "programm011/uuid",
+    "description": "UUID",
+    "version": "1.0",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Programm011\\UUID\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "programm011",
+            "email": "programm011@gmail.com"
+        }
+    ],
+    "require": {}
+}
