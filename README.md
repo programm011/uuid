@@ -8,7 +8,7 @@ Model
 ```php
 use Traits\HasUuids;class User extends Authenticatable
 {
-    use Notifiable,HasUuids;
+    use Notifiable,UUID;
 ```
 
 Migration
