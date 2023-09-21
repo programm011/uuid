@@ -1,5 +1,7 @@
 <?php
 
+namespace Programm011\UUID;
+
 use Illuminate\Support\Str;
 
 trait HasUuids
