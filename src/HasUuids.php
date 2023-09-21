@@ -1,9 +1,8 @@
 <?php
 
 use Illuminate\Support\Str;
-use Programm011\UUID;
 
-trait UUID
+trait HasUuids
 {
     /**
      * Boot function from Laravel.

@@ -4,10 +4,11 @@ UUID traits for Laravel
 ## Usage/Examples
 
 Model
+
 ```php
-class User extends Authenticatable
+use Traits\HasUuids;class User extends Authenticatable
 {
-    use Notifiable,UUID;
+    use Notifiable,HasUuids;
 ```
 
 Migration

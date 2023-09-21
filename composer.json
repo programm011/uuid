@@ -1,7 +1,7 @@
 {
     "name": "programm011/uuid",
-    "description": "UUID",
-    "version": "1.0",
+    "description": "HasUuids",
+    "version": "1.1",
     "type": "library",
     "license": "MIT",
     "autoload": {
